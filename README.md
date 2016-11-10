@@ -16,10 +16,12 @@
 
 # Order Option
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+field | type | example | description
+--- | :---: | :---:| ---
+order_id | string | "abc1234" |
+order_date | date format | "2016-12-31" | 
+order_item_qty | int |  0 | 
+order_constraints | string | "weight" / "volume" / "time" |
 
 # Dc Option
 
