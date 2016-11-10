@@ -1,5 +1,5 @@
 # Route Cluster
-* Cluster your route from your node of orders
+* Cluster your route from nodes of orders
 
 # Usage
 * Simply use jquery to send post data
